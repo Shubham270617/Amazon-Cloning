@@ -41,8 +41,58 @@ To view the project locally, follow these steps:
 Open the index.html file in a web browser.
 
 .
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling
-├── assets/          # Directory for images used in the project
-└── README.md        # Project documentation
+├── index.html       # Main HTML file <br />
+├── style.css        # CSS file for styling <br />
+├── assets/          # Directory for images used in the project <br />
+└── README.md        # Project documentation <br />
 
+CSS 
+# Responsive E-commerce Web Page
+
+This repository contains the code for a **responsive e-commerce web page layout**, designed to mimic the aesthetics of an online shopping platform. The design emphasizes usability, clean layout, and responsive behavior to deliver an optimal user experience.
+
+## Features
+
+1. **Navigation Bar**:
+   - Includes a logo, search bar, and cart icon.
+   - Interactive hover effects for borders and buttons.
+
+2. **Hero Section**:
+   - Large hero image with gradient overlay.
+   - Call-to-action message positioned dynamically.
+
+3. **Shop Section**:
+   - Grid layout showcasing product boxes.
+   - Hover effects and clean product card design.
+
+4. **Footer**:
+   - Multi-section footer with navigation links.
+   - Styled for readability and modern appearance.
+
+5. **Responsive Design**:
+   - Flexbox and CSS rules ensure adaptability across screen sizes.
+
+## Folder Structure
+
+```plaintext 
+project/
+├── index.html       # Main HTML file
+├── style.css        # CSS file for layout and styles
+└── assets/          # Images and other assets
+    ├── amazon_logo.png
+    ├── Heros.jpg
+
+Technologies Used 
+HTML5: For the page structure.
+CSS3: For styling and responsive design.
+Flexbox: For layout alignment and responsiveness.
+
+How to Use
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/Shubham270617/Amazon-Cloning.git
+Navigate to the project directory and open the index.html file in your browser.
+
+Ensure that all assets (e.g., amazon_logo.png, Heros.jpg) are correctly placed in the assets/ folder.
