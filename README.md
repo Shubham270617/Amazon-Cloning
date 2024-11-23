@@ -96,3 +96,34 @@ git clone https://github.com/Shubham270617/Amazon-Cloning.git
 Navigate to the project directory and open the index.html file in your browser.
 
 Ensure that all assets (e.g., amazon_logo.png, Heros.jpg) are correctly placed in the assets/ folder.
+
+Styling Details
+Font family: Arial, Helvetica, sans-serif.
+Color scheme:
+Primary: #0f1111 (Dark background for navbar and footer).
+Secondary: #e2e7e6 (Background for product sections).
+Accent: Orange and white for hover effects and highlights.
+Key CSS Highlights
+Flexbox Usage:
+
+Navigation bar and panels use display: flex for alignment.
+Shop section leverages flex-wrap for responsive grid.
+Hover Effects:
+
+Border and background color changes on hover.
+Media Queries:
+
+(Optional: Add media query implementation details if present in the code.)
+Assets
+amazon_logo.png: Placeholder for the logo. 
+Heros.jpg: Hero section background image.
+Future Improvements
+Add interactivity using JavaScript (e.g., dynamic cart updates).
+Optimize for smaller devices using media queries.
+Enhance SEO and accessibility with semantic HTML tags.
+License
+This project is open-source and available under the MIT License.
+
+Acknowledgments
+Inspired by popular e-commerce websites.
+Icons and assets sourced from royalty-free repositories.
