@@ -1,0 +1,28 @@
+@media (min-width: 300px) and (max-width: 400px){
+    div{
+        background-color: pink;
+
+    }
+
+}
+
+/* Media Query for tablets (768px and smaller) */
+@media (max-width: 768px) {
+    .box-image {
+        height: 250px; /* Reduce height for smaller screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        height: 400px; /* Reduce height for smaller screens */
+        background-size: contain; /* Ensure full image is visible */
+    }
+
+    .hero-msg {
+        font-size: 0.75rem; /* Adjust font size */
+        width: 90%; /* Adjust width for better fit */
+        margin-bottom: 50px; /* Reduce bottom margin */
+    }
+}
+
